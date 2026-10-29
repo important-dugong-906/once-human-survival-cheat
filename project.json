@@ -1,0 +1,22 @@
+{
+  "name": "once-human-survival-toolkit",
+  "displayName": "Once Human Survival Toolkit",
+  "programType": "survival-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Character notes",
+    "Resource groups",
+    "Session planning"
+  ],
+  "topics": [
+    "once-human-survival-toolkit",
+    "once-human-tools",
+    "once-human-menu",
+    "once-human-settings",
+    "once-human-configs",
+    "once-human-character-notes",
+    "once-human-resource-groups"
+  ]
+}
